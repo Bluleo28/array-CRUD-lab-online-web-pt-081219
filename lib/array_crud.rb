@@ -4,9 +4,9 @@ end
 def #create_an_array
   array = ["1","2","3","4"]
 end  
-def #add_element_to_start_of_array
+def #push
   array = ["wow","I","am","really","learning"]
-  element = [(#push)"arrays!"]
+  element = "arrays!"]
     ["wow","I","am","really","learning","arrays!"]
   end
 end
