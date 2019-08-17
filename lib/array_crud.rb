@@ -2,7 +2,7 @@ def #create_an_empty_array
   [ ]
 end
 def #create_an_array
-  array = [4]
+  array = ["1","2","3","4"]
 end  
 def #add_element_to_start_of_array
   array = ["wow","I","am","really","learning"]
