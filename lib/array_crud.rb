@@ -7,7 +7,7 @@ end
 def #add_element_to_start_of_array
   array = ["wow","I","am","really","learning"]
   element = "arrays!"
-    puts ["wow","I","am","really","learning","arrays!"]
+    #push(["wow","I","am","really","learning","arrays!"])
   end
 end
 
