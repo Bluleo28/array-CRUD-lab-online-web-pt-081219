@@ -4,7 +4,7 @@ end
 def #create_an_array
   array = ["1","2","3","4"]
 end  
-def #push.
+def #add_element_to_end_of_array
   array = ["wow","I","am","really","learning"]
   element = "arrays!"]
     ["wow","I","am","really","learning","arrays!"]
