@@ -1,6 +1,7 @@
 def
   array = ["wow","I","am","really","learning"]
   #push = "arrays!"
+    puts ["wow","I","am","really","learning","arrays!"]
   end
 end
 
