@@ -1,13 +1,16 @@
+
+
+
 def
   array = ["wow","I","am","really","learning"]
-  #push = "arrays!"
+  element = "arrays!"
     puts ["wow","I","am","really","learning","arrays!"]
   end
 end
 
 def add_element_to_start_of_array(array, element)
   array = ["I", "am", "really", "learning"]
-  #unshift = "wow"
+  element = "wow"
     puts ["wow","I","am","reall","learning"]
   end
 end  
