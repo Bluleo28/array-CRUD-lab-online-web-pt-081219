@@ -14,7 +14,7 @@ end
 def add_element_to_start_of_array(array, element)
   array = ["I", "am", "really", "learning"]
   element = "wow"
-    puts ["wow","I","am","reall","learning"]
+    puts ["wow","I","am","really","learning"]
   end
 end  
 
