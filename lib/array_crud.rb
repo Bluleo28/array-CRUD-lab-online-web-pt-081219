@@ -4,14 +4,14 @@ end
 def #create_an_array
   array = ["1","2","3","4"]
 end  
-def #push
+def #push.
   array = ["wow","I","am","really","learning"]
   element = "arrays!"]
     ["wow","I","am","really","learning","arrays!"]
   end
 end
 
-def #unshift
+def #unshift.
   array = ["I", "am", "really", "learning"]
   element = "wow"
     puts ["wow","I","am","really","learning"]
